@@ -7,5 +7,5 @@ TO use this app just download the folder.
 Now start command prompt from this directory.
 now type - "npm install". it will install all the packages required for this app.
 now run this command - node app.js -a address_of_the_place
-For more info u can help
+For more info u can use help
 "node app.js -h"
